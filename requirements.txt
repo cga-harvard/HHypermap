@@ -54,7 +54,7 @@ psycopg2==2.6.1
 ptyprocess==0.5.1
 pycsw==2.1.dev20161019
 pyflakes==1.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylibmc==1.5.2
 pyparsing==2.2.0
 pyproj==1.9.3
